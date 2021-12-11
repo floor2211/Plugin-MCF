@@ -2,3 +2,7 @@ main: cl.pisanvs.mcfplugin.App
 name: MCFPlugin
 version: 0.1
 api-version: 1.17
+
+commands:
+  test:
+    desctr: Test command
