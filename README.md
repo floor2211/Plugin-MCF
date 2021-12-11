@@ -1,3 +1,4 @@
 # Plugins para MCF
 
-jaja eleme
+jaja eleme 
+el rick cuando 
